@@ -6,27 +6,27 @@
     "uri": "https://www.youtube.com/watch?v=ufORkfIJdnE"
   },
   {
-    "category": "Holy Cow (2x speed)",
-    "player": "pimittens",
-    "result": "4:07",
-    "uri": "https://youtu.be/Qv1e3UzMyxw"
-  },
-  {
     "category": "candle%",
     "player": "pimittens",
     "result": "3:20",
     "uri": "https://www.twitch.tv/videos/627792925"
   },
   {
-    "category": "MAS4 ping pong jump at 4x speed",
+    "category": "Make a Star 4",
     "player": "grass",
-    "result": "lol",
+    "result": "Ping pong boost (4x speed)",
     "uri": "https://clips.twitch.tv/EagerBlightedMarrowJKanStyle"
   },
   {
-    "category": "The mystery of the MAS9 banana bunches",
+    "category": "Make a Star 9",
     "player": "pimittens",
-    "result": "hmm",
+    "result": "Solving banana mystery",
     "uri": "https://www.youtube.com/watch?v=Rcv-CShhdQs"
+  },
+  {
+    "category": "Holy Cow",
+    "player": "pimittens",
+    "result": "4:07 (2x speed)",
+    "uri": "https://youtu.be/Qv1e3UzMyxw"
   }
 ]
