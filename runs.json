@@ -1,5 +1,12 @@
 [
   {
+    "category": "Make a Star 2",
+    "player": "rocksan",
+    "result": "Super Jump",
+    "uri": "https://clips.twitch.tv/CourteousFaithfulAirGuitarWOOP"
+  },
+  null,
+  {
     "category": "Make a Star 3",
     "player": "martini",
     "result": "Aerial Ending",
@@ -24,6 +31,12 @@
     "result": "Kokeshi Shake",
     "uri": "https://clips.twitch.tv/MistyBenevolentCrowStrawBeary"
   },
+  {
+    "category": "Make a Star 4",
+    "player": "grass",
+    "result": "Flowerpot Hops",
+    "uri": "https://www.youtube.com/watch?v=xVzyJbc5Luw"
+  },
   null,
   {
     "category": "Make a Star 5",
@@ -36,6 +49,19 @@
     "player": "dunewacky",
     "result": "Cart Lady Royal Warp",
     "uri": "https://www.twitch.tv/videos/160978599"
+  },
+  {
+    "category": "Make a Star 5",
+    "player": "grass",
+    "result": "Cart Lady Destruction",
+    "uri": "https://www.youtube.com/watch?v=o4uUp8yslPI"
+  },
+  null,
+  {
+    "category": "Make a Star 6",
+    "player": "sunkir",
+    "result": "Fence Boost Air",
+    "uri": "https://www.twitch.tv/videos/47475353"
   },
   null,
   {
@@ -66,6 +92,12 @@
   {
     "category": "Make a Star 8",
     "player": "grass",
+    "result": "Sandcastle Spiral",
+    "uri": "https://www.twitch.tv/videos/43057015"
+  },
+  {
+    "category": "Make a Star 8",
+    "player": "grass",
     "result": "Undeserved Market Boy Clip",
     "uri": "https://clips.twitch.tv/DirtyAttractiveClipsmomUncleNox"
   },
@@ -74,6 +106,12 @@
     "player": "dunewacky",
     "result": "Bridge Royal Warp",
     "uri": "https://www.twitch.tv/videos/136536935"
+  },
+  {
+    "category": "Make a Star 8",
+    "player": "devteam",
+    "result": "Telephone Pole Air",
+    "uri": "https://www.twitch.tv/videos/46095125"
   },
   null,
   {
@@ -94,6 +132,12 @@
     "result": "Trapped",
     "uri": "https://www.twitch.tv/videos/48346706"
   },
+  {
+    "category": "Make a Star 9",
+    "player": "sunkir",
+    "result": "Gas Station Royal Warp",
+    "uri": "https://www.twitch.tv/videos/45042541"
+  },
   null,
   {
     "category": "Make the Moon",
@@ -106,6 +150,12 @@
     "player": "devteam",
     "result": "Bridge Catastrophe",
     "uri": "https://www.twitch.tv/videos/49659447"
+  },
+  {
+    "category": "Make the Moon",
+    "player": "Klohinx",
+    "result": "Freeze Out Of Bounds",
+    "uri": "https://clips.twitch.tv/AuspiciousDaintyMallardJebaited"
   },
   null,
   {
