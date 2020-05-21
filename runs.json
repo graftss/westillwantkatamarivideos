@@ -1,32 +1,117 @@
 [
   {
-    "category": "any% (2x speed)",
-    "player": "grass",
-    "result": "17:34",
-    "uri": "https://www.youtube.com/watch?v=ufORkfIJdnE"
+    "category": "Make a Star 3",
+    "player": "martini",
+    "result": "Aerial Ending",
+    "uri": "https://clips.twitch.tv/EsteemedCleverRaccoonDBstyle"
   },
   {
-    "category": "candle%",
-    "player": "pimittens",
-    "result": "3:20",
-    "uri": "https://www.twitch.tv/videos/627792925"
+    "category": "Make a Star 3",
+    "player": "martini",
+    "result": "Stealthy Jungle",
+    "uri": "https://www.twitch.tv/martini/clip/LovelyNimbleHumanPogChamp"
+  },
+  null,
+  {
+    "category": "Make a Star 4",
+    "player": "grass",
+    "result": "Ping Pong Boost (4x speed)",
+    "uri": "https://clips.twitch.tv/EagerBlightedMarrowJKanStyle"
   },
   {
     "category": "Make a Star 4",
     "player": "grass",
-    "result": "Ping pong boost (4x speed)",
-    "uri": "https://clips.twitch.tv/EagerBlightedMarrowJKanStyle"
+    "result": "Kokeshi Shake",
+    "uri": "https://clips.twitch.tv/MistyBenevolentCrowStrawBeary"
+  },
+  null,
+  {
+    "category": "Make a Star 5",
+    "player": "sunkir",
+    "result": "Takoyaki Tray Royal Warp",
+    "uri": "https://www.twitch.tv/videos/45651695"
+  },
+  {
+    "category": "Make a Star 5",
+    "player": "dunewacky",
+    "result": "Cart Lady Royal Warp",
+    "uri": "https://www.twitch.tv/videos/160978599"
+  },
+  null,
+  {
+    "category": "Make a Star 7",
+    "player": "pimittens",
+    "result": "Schoolgirl Escape",
+    "uri": "https://clips.twitch.tv/RefinedDeadHornetDatSheffy"
+  },
+  {
+    "category": "Make a Star 7",
+    "player": "grass",
+    "result": "Spinny Rock",
+    "uri": "https://www.youtube.com/watch?v=jI1VQRUAdNE"
+  },
+  null,
+  {
+    "category": "Make a Star 8",
+    "player": "martini",
+    "result": "Sandcastle Hop",
+    "uri": "https://clips.twitch.tv/UninterestedHappyChimpanzeeDxAbomb"
+  },
+  {
+    "category": "Make a Star 8",
+    "player": "pimittens",
+    "result": "Sandcastle Seizure",
+    "uri": "https://clips.twitch.tv/AthleticCoyChimpanzeeYouWHY"
+  },
+  {
+    "category": "Make a Star 8",
+    "player": "grass",
+    "result": "Undeserved Market Boy Clip",
+    "uri": "https://clips.twitch.tv/DirtyAttractiveClipsmomUncleNox"
+  },
+  {
+    "category": "Make a Star 8",
+    "player": "dunewacky",
+    "result": "Bridge Royal Warp",
+    "uri": "https://www.twitch.tv/videos/136536935"
+  },
+  null,
+  {
+    "category": "Make a Star 9",
+    "player": "pimittens",
+    "result": "Solving Banana Mystery",
+    "uri": "https://www.youtube.com/watch?v=Rcv-CShhdQs"
   },
   {
     "category": "Make a Star 9",
     "player": "pimittens",
-    "result": "Solving banana mystery",
-    "uri": "https://www.youtube.com/watch?v=Rcv-CShhdQs"
+    "result": "Beachside Royal Warp",
+    "uri": "https://clips.twitch.tv/FurtiveFaintNikudonKappaClaus"
   },
   {
-    "category": "Holy Cow",
-    "player": "pimittens",
-    "result": "4:07 (2x speed)",
-    "uri": "https://youtu.be/Qv1e3UzMyxw"
+    "category": "Make a Star 9",
+    "player": "devteam",
+    "result": "Trapped",
+    "uri": "https://www.twitch.tv/videos/48346706"
+  },
+  null,
+  {
+    "category": "Make the Moon",
+    "player": "rattmann_",
+    "result": "Elephant Rejection",
+    "uri": "https://clips.twitch.tv/BashfulProudBarracudaDoubleRainbow"
+  },
+  {
+    "category": "Make the Moon",
+    "player": "devteam",
+    "result": "Bridge Catastrophe",
+    "uri": "https://www.twitch.tv/videos/49659447"
+  },
+  null,
+  {
+    "category": "Cygnus",
+    "player": "kumasbear",
+    "result": "Missed Cuckoo",
+    "uri": "https://clips.twitch.tv/CoweringAgitatedCrowHoneyBadger"
   }
 ]

@@ -11,7 +11,8 @@ const TABLE_IDENTIFIER = '{{RUNS}}';
 const renderNonemptyRun = run => (
  `<tr>
     <td>${run.category}</td>
-    <td>${run.result}&nbsp;by ${run.player}</td>
+    <td>${run.result}</td>
+    <td>by ${run.player}</td>
     <td style="vertical-align: top;"><a href="${run.uri}">watch here</a></td>
   </tr>`
 );
