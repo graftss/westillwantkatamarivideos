@@ -5,18 +5,28 @@
     "result": "17:34",
     "uri": "https://www.youtube.com/watch?v=ufORkfIJdnE"
   },
-  null,
+  {
+    "category": "Holy Cow (2x speed)",
+    "player": "pimittens",
+    "result": "4:07",
+    "uri": "https://youtu.be/Qv1e3UzMyxw"
+  },
   {
     "category": "candle%",
     "player": "pimittens",
     "result": "3:20",
     "uri": "https://www.twitch.tv/videos/627792925"
   },
-  null,
   {
     "category": "MAS4 ping pong jump at 4x speed",
     "player": "grass",
     "result": "lol",
     "uri": "https://clips.twitch.tv/EagerBlightedMarrowJKanStyle"
+  },
+  {
+    "category": "The mystery of the MAS9 banana bunches",
+    "player": "pimittens",
+    "result": "hmm",
+    "uri": "https://www.youtube.com/watch?v=Rcv-CShhdQs"
   }
 ]
