@@ -37,6 +37,12 @@
     "result": "Flowerpot Hops",
     "uri": "https://www.youtube.com/watch?v=xVzyJbc5Luw"
   },
+  {
+    "category": "Make a Star 4",
+    "player": "martini",
+    "result": "Ping Pong Boost (keyboard)",
+    "uri": "https://clips.twitch.tv/HonestNastyKathyGingerPower"
+  },
   null,
   {
     "category": "Make a Star 5",
@@ -56,12 +62,30 @@
     "result": "Cart Lady Destruction",
     "uri": "https://www.youtube.com/watch?v=o4uUp8yslPI"
   },
+  {
+    "category": "Make a Star 5",
+    "player": "Cherry_Soup",
+    "result": "Cart Lady Guard",
+    "uri": "https://www.twitch.tv/videos/628231682"
+  },
+  {
+    "category": "Make a Star 5",
+    "player": "martini",
+    "result": "River Parkour",
+    "uri": "https://clips.twitch.tv/MoralMuddyWeaselNerfRedBlaster"
+  },
   null,
   {
     "category": "Make a Star 6",
     "player": "sunkir",
     "result": "Fence Boost Air",
     "uri": "https://www.twitch.tv/videos/47475353"
+  },
+  {
+    "category": "Make a Star 6",
+    "player": "grass",
+    "result": "Park Gate Backwards Clip",
+    "uri": "https://clips.twitch.tv/EagerArbitraryWatercressBCouch"
   },
   null,
   {
@@ -162,6 +186,12 @@
     "player": "Klohinx",
     "result": "Freeze Out Of Bounds",
     "uri": "https://clips.twitch.tv/AuspiciousDaintyMallardJebaited"
+  },
+  {
+    "category": "Make the Moon",
+    "player": "MrShasta",
+    "result": "Building Clip",
+    "uri": "https://clips.twitch.tv/ConcernedLovelyRavenTBTacoLeft"
   },
   null,
   {
