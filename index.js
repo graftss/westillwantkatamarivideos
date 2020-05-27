@@ -1,11 +1,3 @@
-const fs = require('fs');
-
-const paths = {
-  TEMPLATE: './template.html',
-  RUNS: './runs.json',
-  INDEX_OUT: './index.html',
-};
-
 const TABLE_IDENTIFIER = '{{RUNS}}';
 
 const renderNonemptyRun = run => (
@@ -23,14 +15,8 @@ const renderRun = run => run === null ? renderEmptyRun() : renderNonemptyRun(run
 
 const renderRuns = runs => runs.map(renderRun).join('\n');
 
-const build = () => {
-  const runs = JSON.parse(fs.readFileSync(paths.RUNS).toString());
+const fetchRuns = () => fetch('runs.json').then(res => res.json());
 
-  const out = fs.readFileSync(paths.TEMPLATE)
-    .toString()
-    .replace(TABLE_IDENTIFIER, renderRuns(runs));
+const writeRuns = runs => document.getElementById('runs').innerHTML = runs;
 
-  fs.writeFileSync(paths.INDEX_OUT, out);
-};
-
-build();
+fetchRuns().then(renderRuns).then(writeRuns);
